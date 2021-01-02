@@ -12,7 +12,7 @@ private int i=5;
         setContentView(R.layout.activity_main);
         //hi
         for(int
-         i=0;i<5;i++){
+         i=0;i<i;i++){
             //logic here
         }
     }
