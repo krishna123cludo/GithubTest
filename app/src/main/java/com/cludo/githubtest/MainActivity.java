@@ -23,7 +23,6 @@ private int i=5,j=4,k=3;
         for(int
             i=0;i<k;i++){
             //logic here
-
         }
     }
 }
