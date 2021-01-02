@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
-private int i=5;
+private int i=5,j=4;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -14,6 +14,11 @@ private int i=5;
         for(int
          i=0;i<i;i++){
             //logic here
+        }
+         for(int
+         i=0;i<j;i++){
+            //logic here
+             
         }
     }
 }
